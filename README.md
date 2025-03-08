@@ -1,0 +1,1 @@
+github kisisel sayfamı oluşturma üzerine bir çalısmadır. 
